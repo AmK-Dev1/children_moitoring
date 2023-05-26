@@ -1,0 +1,45 @@
+{
+    "emails":{
+        "staff":[
+            {
+                "name":"allaoui mohamed khalil",
+                "email":"medkhalilallaoui@gmail.com",
+                "role":"admin",
+                "phone":"+14383652290"
+            },
+            {
+                "name":"grin aya hassina",
+                "email":"example@gmail.com",
+                "role":"staff",
+                "phone":"+14383652290"
+            }
+        ],
+        "parents":[
+            {
+                "name":"parent1",
+                "email":"example@gmail.com",
+                "phone":"+14383652290"                
+            },
+            {
+                "name":"parent2",
+                "email":"example@gmail.com",
+                "phone":"+14383652290"                
+            },
+            {
+                "name":"parent3",
+                "email":"example@gmail.com",
+                "phone":"+14383652290"                
+            },
+            {
+                "name":"parent4",
+                "email":"example@gmail.com",
+                "phone":"+14383652290"                
+            },
+            {
+                "name":"parent5",
+                "email":"example@gmail.com",
+                "phone":"+14383652290"                
+            }
+        ]
+    }
+}

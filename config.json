@@ -1,0 +1,33 @@
+{
+    "config":{
+        "app_name":"test",
+        "cameras":[
+            {
+                "id":1,
+                "resolution":0,
+                "risky":1,
+                "source":"data/videos/1.mp4"
+            },
+            {
+                "id":2,
+                "resolution":0,
+                "risky":0,
+                "source":"data/videos/2.mp4"
+            },
+            {
+                "id":3,
+                "resolution":0,
+                "risky":0,
+                "source":"data/videos/1.mp4"
+            },
+            {
+                "id":4,
+                "resolution":0,
+                "risky":1,
+                "source":"data/videos/2.mp4"
+            }
+        ],
+        "pesonel_info_path":"data/personel/personel.json",
+        "sound_alarm":1
+    }
+}

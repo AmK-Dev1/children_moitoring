@@ -3,9 +3,11 @@ application description :
 - we will try two algorithms ( YOLOv5 and YOLOv8 )
 
 -Features : 
--1) detection with bounding box #Done ! 
+-1) detection with bounding box #Done !
+
 -2) counter for (child and mature -> save time and camera id with every detection)
 -3) alarm if the area is a risky area
+
 -4) send emails with smtp module to the parents (admin -> for each execution)
 -5) take pictures and video of the presence of a child in a risky area
 
