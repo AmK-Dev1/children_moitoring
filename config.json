@@ -1,15 +1,45 @@
 {
     "config":{
         "app_name":"test",
+        "pesonel_info_path":"data/personel/personel.json",
+        "emails":0,
+
         "cameras":[
             {
                 "id":1,
-                "resolution":0,
+                "resolution":{
+                    "h":400,
+                    "w":400
+                },
+                "risky":0,
+                "source":"data/test/camera1",
+                "alarm":1
+                
+            },
+            {
+                "id":2,
+                "resolution":{
+                    "h":400,
+                    "w":500
+                },
+                "risky":0,
+                "source":"data/test/camera2",
+                "alarm":1
+                
+            },
+            {
+                "id":3,
+                "resolution":{
+                    "h":400,
+                    "w":500
+                },
                 "risky":1,
-                "source":"data/videos/5.mp4"
+                "source":"data/test/camera3",
+                "alarm":1
+                
             }
-        ],
-        "pesonel_info_path":"data/personel/personel.json",
-        "sound_alarm":1
+            
+        ]
+        
     }
 }
