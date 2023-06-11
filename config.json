@@ -22,7 +22,7 @@
                     "h":400,
                     "w":500
                 },
-                "risky":0,
+                "risky":1,
                 "source":"data/test/camera2",
                 "alarm":1
                 
@@ -33,7 +33,7 @@
                     "h":400,
                     "w":500
                 },
-                "risky":1,
+                "risky":0,
                 "source":"data/test/camera3",
                 "alarm":1
                 
